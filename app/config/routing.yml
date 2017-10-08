@@ -1,3 +1,3 @@
-app:
-    resource: '@AppBundle/Controller/'
-    type: annotation
+twicth_page:
+    resource: "@TwitchPageBundle/Resources/config/routing.yml"
+    prefix:   /

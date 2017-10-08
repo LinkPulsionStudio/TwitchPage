@@ -1,0 +1,3 @@
+twicth_page_homepage:
+    path:     /
+    defaults: { _controller: TwitchPageBundle:Default:index }

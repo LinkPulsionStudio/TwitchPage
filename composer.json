@@ -1,10 +1,10 @@
 {
-    "name": "cypou/twitchpage",
-    "license": "proprietary",
+    "name": "linkpulsionstudio/twitchpage",
+    "license": "Apache-2.0",
     "type": "project",
     "autoload": {
         "psr-4": {
-            "AppBundle\\": "src/AppBundle"
+            "TwitchPageBundle\\": "src/TwitchPageBundle"
         },
         "classmap": [
             "app/AppKernel.php",
