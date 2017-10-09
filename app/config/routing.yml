@@ -1,3 +1,7 @@
+twitch_page_admin:
+    resource: "@TwitchPageAdminBundle/Resources/config/routing.yml"
+    prefix:   /
+
 twicth_page:
     resource: "@TwitchPageBundle/Resources/config/routing.yml"
     prefix:   /

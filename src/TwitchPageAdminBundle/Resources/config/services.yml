@@ -1,0 +1,4 @@
+services:
+#    twitch_page_admin.example:
+#        class: TwitchPageAdminBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

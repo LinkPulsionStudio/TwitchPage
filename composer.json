@@ -4,7 +4,8 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "TwitchPageBundle\\": "src/TwitchPageBundle"
+            "TwitchPageBundle\\": "src/TwitchPageBundle",
+            "TwitchPageAdminBundle\\": "src/TwitchPageAdminBundle"
         },
         "classmap": [
             "app/AppKernel.php",
