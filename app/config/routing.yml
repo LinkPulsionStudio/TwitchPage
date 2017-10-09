@@ -3,7 +3,7 @@ fos_user:
 
 twitch_page_admin:
     resource: "@TwitchPageAdminBundle/Resources/config/routing.yml"
-    prefix:   /
+    prefix:   /admin
 
 twicth_page:
     resource: "@TwitchPageBundle/Resources/config/routing.yml"
